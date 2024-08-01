@@ -1,4 +1,4 @@
-# AICUP_MangoClassification
+# MangoClassification
 
 ## Introduction
 
